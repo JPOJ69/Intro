@@ -15,7 +15,9 @@ ___
 
 [code](code/)
 
-[images](image1/)
+[images](images/image1.jpg)
+
+
 
 
 ![]()
@@ -35,4 +37,4 @@ I chose FinTech because it will be one of the biggest industries in the future a
 
 
 
-[def]: image1.jpg
+[image] (image1.jpg)
