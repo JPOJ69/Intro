@@ -10,9 +10,14 @@ ___
 
 
 [data](data/)
+
 [refecences](references/)
+
 [code](code/)
-[image](image1/)
+
+[images](image1/)
+
+
 ![]()
 
 
@@ -28,3 +33,6 @@ Why did you choose FinTech as a career path?
 ---
 I chose FinTech because it will be one of the biggest industries in the future along with endless opportunities.
 
+
+
+[def]: image1.jpg
