@@ -1,14 +1,14 @@
 ## FinTech Respository!
 ---
+
 Welcome to my FinTech Respository
-__
+
 
 ## README description 
----
+___
 ## README table of contents
----
-`code block here`
->"...to boldly go where no one has gone before."
+
+
 [data](data/)
 [refecences](references/)
 [code](code/)
@@ -16,8 +16,7 @@ __
 ![]()
 
 
-Who are you?** 
-What is your background?**
+ Who are you? What is your background?
 ---
 Hi, my name is Matt and my background is a little bit all over the place. I actualy went to college for computer science but dropped out and entered the work force. Worked from life insurance to the club industry and a bunch of other industries. 
 
@@ -29,8 +28,3 @@ Why did you choose FinTech as a career path?
 ---
 I chose FinTech because it will be one of the biggest industries in the future along with endless opportunities.
 
-
-
-*QuickDemo*
-**Quickdemo**
-* Quickdemo
